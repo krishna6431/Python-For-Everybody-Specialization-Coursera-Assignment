@@ -7,8 +7,5 @@ for line in hand:
     for i in num:
         num_list.append(int(i))
 print(sum(num_list))
-a=int(input())
+
        
-# for i in num_list:
-#     su+=int(i)
-# print(su)    
