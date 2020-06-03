@@ -24,4 +24,4 @@ for line in fh:
 avg=s/count    
 print("Average spam confidence:",avg)
 
-# Thank u so much 
+# Thank u so much
