@@ -21,4 +21,4 @@ else:
     pay=hrs*rate
     print(pay)
 
-# Thank u so much 
+# Thank u so much
