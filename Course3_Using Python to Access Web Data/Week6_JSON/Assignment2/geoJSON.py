@@ -52,3 +52,5 @@ while True:
 
     placeid = info["results"][0]['place_id']
     print("Place id", placeid)
+
+#     thank u so much 
