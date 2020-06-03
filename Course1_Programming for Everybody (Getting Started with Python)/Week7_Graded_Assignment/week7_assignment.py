@@ -32,4 +32,4 @@ while True:
 print("Maximum is", largest)
 print("Minimum is", smallest)
 
-# Thank u so much 
+# Thank u so much
