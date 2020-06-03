@@ -24,4 +24,4 @@ elif score <0.6 and score > 0.0:
 else:
     print("Enter score in between 0.0 to 1.0")
 
-# Thank u so much 
+# Thank u so much
