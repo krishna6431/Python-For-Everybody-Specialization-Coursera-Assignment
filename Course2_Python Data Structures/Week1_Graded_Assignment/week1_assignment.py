@@ -15,4 +15,4 @@ le=len(text)
 res=float(text[ind+1:le])
 print(res)
 
-# Thank u so much 
+# Thank u so much
