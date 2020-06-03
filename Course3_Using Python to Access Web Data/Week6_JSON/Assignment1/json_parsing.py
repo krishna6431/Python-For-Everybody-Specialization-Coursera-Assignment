@@ -15,3 +15,5 @@ for item in info["comments"]:
     count+=1
 print("Count:",count)
 print("Sum:",su)    
+
+# thank u so much
