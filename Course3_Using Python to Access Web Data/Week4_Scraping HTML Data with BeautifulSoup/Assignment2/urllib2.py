@@ -1,3 +1,4 @@
+# Code Written by Krishna
 import urllib.request,urllib.parse,urllib.error
 from bs4 import BeautifulSoup
 url=input('Enter-')
@@ -15,4 +16,4 @@ while count:
     url=list1[pos-1]
     list1.clear()
     count-=1
-a=input()    
+# Thank u so much 
