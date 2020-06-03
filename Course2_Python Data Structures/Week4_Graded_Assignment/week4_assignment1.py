@@ -21,4 +21,4 @@ for line in fh:
 lst.sort() 
 print(lst)
 
-# Thank u so much 
+# Thank u so much
