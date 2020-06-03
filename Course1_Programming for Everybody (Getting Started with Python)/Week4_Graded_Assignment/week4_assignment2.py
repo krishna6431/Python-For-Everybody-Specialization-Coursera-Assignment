@@ -16,4 +16,4 @@ rate=float(input("Enter Rate:"))
 pay=float(hrs*rate)
 print("Pay:",pay)
 
-# Thank u so much 
+# Thank u so much
