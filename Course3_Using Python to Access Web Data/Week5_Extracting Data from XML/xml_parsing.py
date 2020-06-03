@@ -1,4 +1,4 @@
-#this code is written by krishna kant verma
+#this code is written by krishna 
 import xml.etree.ElementTree as ET
 import urllib.request
 url=input("Enter location: ")
