@@ -15,4 +15,4 @@ fh = open(fname)
 
 for line in fh:
     print(line.rstrip().upper())
-# Thank u so much 
+# Thank u so much
