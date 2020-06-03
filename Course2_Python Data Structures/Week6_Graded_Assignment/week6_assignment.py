@@ -36,4 +36,4 @@ for a,b in lst:
     print(a,b)
 
 
-# Thank u so much 
+# Thank u so much
