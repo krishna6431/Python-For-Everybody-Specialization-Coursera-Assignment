@@ -1,3 +1,5 @@
+# Code is Written By Krishna
+
 import urllib.request,urllib.parse,urllib.error
 from bs4 import BeautifulSoup
 url=input('Enter-')
@@ -15,4 +17,4 @@ print("Count",len(arr))
 print("Sum",su)
 
 
-a=input()
+# Thank U so mUCH
